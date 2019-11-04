@@ -1,2 +1,2 @@
 # HealthValuePipelines
-site content for health[Value|Information|Data||]Pipelines.com urls
+site content for HealthPipelines series of sites
