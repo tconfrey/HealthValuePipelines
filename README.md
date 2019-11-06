@@ -7,7 +7,7 @@ We work with companies that are improving patient care (like [Navya](https://nav
 # Health Pipelines
 Health Pipelines are collaborative human-expert/computer-automation processing pipelines at multiple levels of abstraction for health care data and services.
 <br/>
-<img src="/HealthPipelines-picture.svg" style="border:solid; border-width:thin;">
+<img src="/HealthPipelines-picture.jpeg" style="border:none;">
 ### Processing Pipelines
 In modern large-scale software development there is significant adoption of data processing pipelines. Deriving from earlier scaling methodologies like [MapReduce](https://en.wikipedia.org/wiki/MapReduce) these are queue and event based architectures that handle huge flows of information in realtime - think Facebook servers processing an incoming click stream through layers of storage, aggregation, processing and data mining.
 
