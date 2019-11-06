@@ -2,11 +2,12 @@
 Health Value Pipelines are threads of value woven into the healthcare ecosystem by way of data processing and information creation, both by humans and intelligent automations, and by collaborations between the two.
 
 # The Mission
-We work with companies that are improving patient care (like [Navya](https://navya.care/)) or reducing societal healthcare cost (like someone else) to improve their health value pipelines by building and commoditizing software components that allow humans and computers to more efficiently and empathetically provide healthcare services.
+We work with companies that are improving patient care (like [Navya](https://navya.care/)) or reducing societal healthcare cost (like [Remedy Partners ](https://www.remedypartners.com/)) to improve their health value pipelines by building and commoditizing software components that allow humans and computers to more efficiently and empathetically provide healthcare services.
 
 # Health Pipelines
 Health Pipelines are collaborative human-expert/computer-automation processing pipelines at multiple levels of abstraction for health care data and services.
-
+<br/>
+<img src="/HealthPipelines-picture.svg" style="border:solid; border-width:thin;">
 ### Processing Pipelines
 In modern large-scale software development there is significant adoption of data processing pipelines. Deriving from earlier scaling methodologies like [MapReduce](https://en.wikipedia.org/wiki/MapReduce) these are queue and event based architectures that handle huge flows of information in realtime - think Facebook servers processing an incoming click stream through layers of storage, aggregation, processing and data mining.
 
@@ -37,4 +38,5 @@ It might not seem like it but we are approaching a golden age of Healthcare IT, 
 - Over the last few years advances in machine learning have made significant new tools available for natural language processing, pattern recognition and computer aided decision making. Applying these tools to large healthcare data sets has the potential to significantly improve care outcomes while simultaneously automating away work and reducing costs.
 - The FHIR standard shows great potential to unify the world of the internet and mobile software with healthcare; and its success and adoption are encouraging further standardization efforts (eg [mCODE](https://mcodeinitiative.org/)?)
 
-Based on these dynamics more and more mission-driven healthcare companies are forming to solve targeted problems by building and delivering new healthcare value pipelines. In doing so they are often tackling similar problems to build out needed pipeline components. Insofar as these components are not core to a companies intrinsic value-add it makes sense to outsource and/or re-use pre-existing building blocks.
+### Value Add
+Based on these dynamics more and more mission-driven healthcare companies are forming to solve targeted problems by building and delivering new healthcare value pipelines. In doing so they are often tackling common problems to build out needed pipeline components. Insofar as these components are not core to a companies intrinsic value-add it makes sense to outsource and/or re-use pre-existing building blocks.
