@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+header_pages:
+  - posts.md
+  - README.md
