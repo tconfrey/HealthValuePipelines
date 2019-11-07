@@ -2,7 +2,7 @@
 Health Value Pipelines are threads of value woven into the healthcare ecosystem by way of data processing and information creation, both by humans and intelligent automations, and by collaborations between the two.
 
 # The Mission
-We work with companies that are improving patient care (like [Navya](https://navya.care/)) or reducing societal healthcare cost (like [Remedy Partners ](https://www.remedypartners.com/)) to improve their health value pipelines by building and commoditizing software components that allow humans and computers to more efficiently and empathetically provide healthcare services.
+We work with companies that are improving patient care (like [Navya](https://navya.care/)) or reducing societal healthcare cost (like [Remedy Partners ](https://www.remedypartners.com/)) to upgrade their health value pipelines by building and commoditizing software components that allow humans and computers to more efficiently and empathetically provide healthcare services.
 
 # Health Pipelines
 Health Pipelines are collaborative human-expert/computer-automation processing pipelines at multiple levels of abstraction for health care data and services.
