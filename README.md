@@ -42,4 +42,4 @@ It might not seem like it but we are approaching a golden age of Healthcare IT, 
 Based on these dynamics, more and more mission-driven healthcare companies are forming to solve targeted problems by building and delivering new healthcare value pipelines. In doing so they are often tackling common problems to build out needed pipeline components. Insofar as these components are not core to a companies intrinsic value-add it makes sense to outsource and/or re-use pre-existing building blocks.
 
 <br/>
-<img src="/HealthPipelines-components.jpeg" style="border:none;">
+<img src="/HealthPipeline-components.jpeg" style="border:none;">
