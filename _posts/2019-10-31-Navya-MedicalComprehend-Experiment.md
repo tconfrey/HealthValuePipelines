@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Experiments with AWS Medical Comprehend for a document classification component"
+title:  "AWS Medical Comprehend for Document Classification"
+description: "Proof of concept experiment"
+author: "Tony"
 ---
 
-# Navya
-[Navya](http://navyanetwork.com) provides a second opinion service currently targeted at breast cancer patients. Blah blah blah.
+[**Navya**](http://navyanetwork.com) provides a second opinion service currently targeted at breast cancer patients. Blah blah blah.
 

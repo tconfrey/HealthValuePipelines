@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-header_pages:
-  - posts.md
-  - README.md
+title: "Health Value Pipelines"
+description: "Heath Value Pipelines are automations and human workflows that add value to Healthcare"
