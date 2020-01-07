@@ -2,14 +2,14 @@
 Health Value Pipelines are threads of value woven into the healthcare ecosystem by way of data processing and information creation, both by humans and intelligent automations, and by collaborations between the two.
 
 # The Mission
-We work with companies that are improving patient care (like [Navya](https://navya.care/)) or reducing societal healthcare cost (like [Remedy Partners ](https://www.remedypartners.com/)) to upgrade their health value pipelines by building and commoditizing software components that allow humans and computers to more efficiently and empathetically provide healthcare services.
+We work with companies that are improving patient care or reducing societal healthcare costs, to upgrade their health value pipelines by building and commoditizing software components that allow humans and computers to more efficiently and empathetically provide healthcare services.
 
 # Health Pipelines
 Health Pipelines are collaborative human-expert/computer-automation processing pipelines at multiple levels of abstraction for health care data and services.
 <br/>
 <img src="/HealthPipelines-picture.jpeg" style="border:none;">
 ### Processing Pipelines
-In modern large-scale software development there is significant adoption of data processing pipelines. Deriving from earlier scaling methodologies like [MapReduce](https://en.wikipedia.org/wiki/MapReduce) these are queue and event based architectures that handle huge flows of information in realtime - think Facebook servers processing an incoming click stream through layers of storage, aggregation, processing and data mining.
+In modern large-scale software development there is significant adoption of [data processing pipelines](https://blogs.informatica.com/2019/08/20/data-processing-pipeline-patterns/#fbid=3XB2ojv7ywv). Deriving from earlier scaling methodologies like [MapReduce](https://en.wikipedia.org/wiki/MapReduce) these are queue and event based architectures that handle huge flows of information in realtime - think Facebook servers processing an incoming click stream through layers of storage, aggregation, processing and data mining.
 
 ### Health Data Pipelines
 Health data pipelines handle streams of events like patient admit, discharge or transfer information; order queues and results feeds; referrals and appointments; and many other data flows. Healthcare systems are very heterogeneous at all levels of the communications stack, so basic connectivity, ingestion and data normalization are challenging if starting from scratch.
